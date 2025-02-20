@@ -6,7 +6,7 @@ import { useEffect } from "react";
 export const PageNotFound = () => {
 
   useEffect(() => {
-    document.title = `Page Not Found / TrickyIMDB`
+    document.title = `Page Not Found / MarkIMDB`
   }, [])
 
   return (
